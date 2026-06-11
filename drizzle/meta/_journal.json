@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781155020623,
+      "tag": "0000_nifty_lockjaw",
+      "breakpoints": true
+    }
+  ]
+}
